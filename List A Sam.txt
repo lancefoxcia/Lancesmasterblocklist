@@ -3361,7 +3361,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adgrx.com
 0.0.0.0 cdn.adgrx.com
 0.0.0.0 cm.adgrx.com
-0.0.0.0 rtb.adgrx.com
 
 # [adhaven.com]
 0.0.0.0 adobe.adhaven.com
