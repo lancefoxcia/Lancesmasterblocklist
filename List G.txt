@@ -1748,7 +1748,6 @@
 127.0.0.1 bttrack.com
 127.0.0.1 c1.adform.net
 127.0.0.1 cdn.districtm.io
-127.0.0.1 cm.adgrx.com
 127.0.0.1 cm.ctnsnet.com
 127.0.0.1 cm.eyereturn.com
 127.0.0.1 cm.netseer.com

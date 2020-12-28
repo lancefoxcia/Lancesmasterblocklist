@@ -624,7 +624,6 @@ cloudcdn.dopa.com.cn
 cloudcdn.yousee.com
 c.l.qq.com
 cm066.getui.igexin.com
-cm.adgrx.com
 cm.adkmob.com
 cm.admaster.com.cn
 cm.baichuan.baidu.com

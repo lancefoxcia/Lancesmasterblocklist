@@ -482,10 +482,6 @@
 # [adgoji.com]
 127.0.0.1 berry-1001.adgoji.com
 
-# [adgrx.com]
-127.0.0.1 adgrx.com
-127.0.0.1 cm.adgrx.com
-
 # [adhaven.com]
 127.0.0.1 adobe.adhaven.com
 127.0.0.1 beachfront.adhaven.com
@@ -1781,7 +1777,6 @@
 127.0.0.1 kaltura.perf.akadns.net
 127.0.0.1 origin.kaltura.perf.akadns.net
 127.0.0.1 stats.origin.kaltura.perf.akadns.net
-127.0.0.1 adgrx.com.tech.akadns.net
 127.0.0.1 vungle.akadns.net
 127.0.0.1 api.vungle.akadns.net
 127.0.0.1 tpat.api.vungle.akadns.net

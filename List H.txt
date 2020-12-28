@@ -51,7 +51,6 @@
 0.0.0.0 media.adfrontiers.com
 0.0.0.0 www.adgitize.com
 0.0.0.0 www.ad-groups.com #[Ban Man Pro Banner Code]
-0.0.0.0 adgrx.com
 0.0.0.0 adhall.com
 0.0.0.0 adhitzads.com
 0.0.0.0 aj.adjungle.com

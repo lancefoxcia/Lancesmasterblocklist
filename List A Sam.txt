@@ -3355,9 +3355,6 @@ ff02::3 ip6-allhosts
 # [adgoji.com]
 0.0.0.0 berry-1001.adgoji.com
 
-# [adgrx.com]
-0.0.0.0 adgrx.com
-0.0.0.0 cm.adgrx.com
 
 # [adhaven.com]
 0.0.0.0 adobe.adhaven.com
@@ -4647,7 +4644,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 kaltura.perf.akadns.net
 0.0.0.0 origin.kaltura.perf.akadns.net
 0.0.0.0 stats.origin.kaltura.perf.akadns.net
-0.0.0.0 adgrx.com.tech.akadns.net
 0.0.0.0 vungle.akadns.net
 0.0.0.0 api.vungle.akadns.net
 0.0.0.0 tpat.api.vungle.akadns.net
