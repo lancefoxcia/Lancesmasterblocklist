@@ -10564,7 +10564,6 @@
 127.0.0.1 samsungads.com
 127.0.0.1 ads.samsungads.com
 127.0.0.1 config.samsungads.com
-127.0.0.1 events.samsungads.com
 
 # [sandai.net]
 127.0.0.1 etl.xlmc.sandai.net
