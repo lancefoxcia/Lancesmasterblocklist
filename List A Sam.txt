@@ -2218,7 +2218,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 config.samsungads.com
 0.0.0.0 events.samsungads.com
 0.0.0.0 oempprd.samsungcloudsolution.com
-0.0.0.0 vdterms.samsungcloudsolution.com
 0.0.0.0 oempprd.samsungcloudsolution.net
 0.0.0.0 gld.samsungosp.com
 0.0.0.0 www.saumweb.com
@@ -13496,7 +13495,6 @@ ff02::3 ip6-allhosts
 
 # [serving-sys.com]
 0.0.0.0 serving-sys.com
-0.0.0.0 bs.serving-sys.com
 0.0.0.0 bsch.serving-sys.com
 0.0.0.0 cd.serving-sys.com
 0.0.0.0 conv-blizzard-emea.cd.serving-sys.com
