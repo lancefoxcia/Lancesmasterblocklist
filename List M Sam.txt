@@ -487,8 +487,6 @@
 127.0.0.1 cdn.adgrx.com
 127.0.0.1 cdn-stv.adgrx.com
 127.0.0.1 cm.adgrx.com
-127.0.0.1 rtb.adgrx.com
-127.0.0.1 tvx.adgrx.com
 
 # [adhaven.com]
 127.0.0.1 adobe.adhaven.com
@@ -1786,8 +1784,6 @@
 127.0.0.1 origin.kaltura.perf.akadns.net
 127.0.0.1 stats.origin.kaltura.perf.akadns.net
 127.0.0.1 adgrx.com.tech.akadns.net
-127.0.0.1 rtb.adgrx.com.tech.akadns.net
-127.0.0.1 tvx.adgrx.com.tech.akadns.net
 127.0.0.1 vungle.akadns.net
 127.0.0.1 api.vungle.akadns.net
 127.0.0.1 tpat.api.vungle.akadns.net
