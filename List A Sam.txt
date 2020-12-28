@@ -2223,7 +2223,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 invitation.samsungiotcloud.com
 0.0.0.0 gld.samsungosp.com
 0.0.0.0 gpm.samsungqbe.com
-0.0.0.0 osb-ussvc.samsungqbe.com
 0.0.0.0 www.saumweb.com
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 scriptoscript.com
@@ -3366,7 +3365,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn-stv.adgrx.com
 0.0.0.0 cm.adgrx.com
 0.0.0.0 rtb.adgrx.com
-0.0.0.0 tvx.adgrx.com
 
 # [adhaven.com]
 0.0.0.0 adobe.adhaven.com
