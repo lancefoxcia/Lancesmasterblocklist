@@ -484,7 +484,6 @@
 
 # [adgrx.com]
 127.0.0.1 adgrx.com
-127.0.0.1 cdn.adgrx.com
 127.0.0.1 cdn-stv.adgrx.com
 127.0.0.1 cm.adgrx.com
 

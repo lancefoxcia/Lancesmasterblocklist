@@ -24028,7 +24028,6 @@
 0.0.0.0 a.adgrx.com
 0.0.0.0 admin.adgrx.com
 0.0.0.0 api.admin.adgrx.com
-0.0.0.0 cdn.adgrx.com
 0.0.0.0 cdna.adgrx.com
 0.0.0.0 cm.adgrx.com
 0.0.0.0 d.adgrx.com
