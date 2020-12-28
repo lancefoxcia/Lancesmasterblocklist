@@ -3362,7 +3362,6 @@ ff02::3 ip6-allhosts
 # [adgrx.com]
 0.0.0.0 adgrx.com
 0.0.0.0 cdn.adgrx.com
-0.0.0.0 cdn-stv.adgrx.com
 0.0.0.0 cm.adgrx.com
 0.0.0.0 rtb.adgrx.com
 
