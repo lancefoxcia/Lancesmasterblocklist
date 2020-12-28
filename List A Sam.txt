@@ -2216,7 +2216,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 rd.samsungadhub.com
 0.0.0.0 ads.samsungads.com
 0.0.0.0 config.samsungads.com
-0.0.0.0 events.samsungads.com
 0.0.0.0 oempprd.samsungcloudsolution.com
 0.0.0.0 oempprd.samsungcloudsolution.net
 0.0.0.0 gld.samsungosp.com
@@ -3358,7 +3357,6 @@ ff02::3 ip6-allhosts
 
 # [adgrx.com]
 0.0.0.0 adgrx.com
-0.0.0.0 cdn.adgrx.com
 0.0.0.0 cm.adgrx.com
 
 # [adhaven.com]
