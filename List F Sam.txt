@@ -7481,7 +7481,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 brwser-message.pw
 0.0.0.0 brxfinance.com
 0.0.0.0 bs.israelinfo.ru
-0.0.0.0 bs.serving-sys.com
 0.0.0.0 bsads.looksmart.com
 0.0.0.0 bsnj.eyeblaster.akadns.net
 0.0.0.0 bt.linkpulse.com
@@ -10776,7 +10775,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 sagent.io
 0.0.0.0 salesforcecom.tt.omtrdc.net
 0.0.0.0 saletrybest.su
-0.0.0.0 samsung3.solution.weborama.fr
 0.0.0.0 sanalreklam.com
 0.0.0.0 sarah.dntrx.com
 0.0.0.0 sas.decisionnews.com
@@ -13346,7 +13344,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 ehg-rodale.hitbox.com
 0.0.0.0 ehg-salesforce.hitbox.com
 0.0.0.0 ehg-salonmedia.hitbox.com
-0.0.0.0 ehg-samsungusa.hitbox.com
 0.0.0.0 ehg-seca.hitbox.com
 0.0.0.0 ehg-shoppersdrugmart.hitbox.com
 0.0.0.0 ehg-sonybssc.hitbox.com
