@@ -41001,8 +41001,6 @@
 0.0.0.0 insights.samsung.com
 0.0.0.0 kpu.samsungelectronics.com
 0.0.0.0 nmetrics.samsung.com
-0.0.0.0 oempprd.samsungcloudsolution.com
-0.0.0.0 oempprd.samsungcloudsolution.net
 0.0.0.0 rd.samsungadhub.com
 0.0.0.0 samsungads.com
 0.0.0.0 upu.samsungelectronics.com
