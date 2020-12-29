@@ -8224,18 +8224,15 @@
 #[adgrx.com]
 0.0.0.0 a.adgrx.com
 0.0.0.0 adgrx.com
-0.0.0.0 cdn.adgrx.com
 0.0.0.0 cdna.adgrx.com
 0.0.0.0 cm.adgrx.com
 0.0.0.0 d.adgrx.com
 0.0.0.0 o.adgrx.com
-0.0.0.0 rtb.adgrx.com
 0.0.0.0 rtbgw-eu.adgrx.com
 0.0.0.0 rtbgw-na-east.adgrx.com
 0.0.0.0 rtbgw-na-west.adgrx.com
 0.0.0.0 rtbx.adgrx.com
 0.0.0.0 ss.adgrx.com
-0.0.0.0 tvx.adgrx.com
 0.0.0.0 v.adgrx.com
 0.0.0.0 vpixel.adgrx.com
 0.0.0.0 www.adgrx.com

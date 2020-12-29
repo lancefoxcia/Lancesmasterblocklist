@@ -143,10 +143,8 @@ oempprd.samsungcloudsolution.com
 oempprd.samsungcloudsolution.net
 prderrordumphsm.samsungcloudsolution.com
 openapi.samsung.com
-osb-apps.samsungqbe.com
 osb-krsvc.samsungqbe.com
 osb-eusvc.samsungqbe.com
-osb.samsungqbe.com
 pavv.co.kr
 pipeaota.com
 premium-videos.telly.com
