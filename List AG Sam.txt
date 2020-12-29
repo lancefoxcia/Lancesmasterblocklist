@@ -101,15 +101,11 @@ nettv.corio.com
 ad.nettvservices.com
 
 # Samsung
-abtauthprd.samsungcloudsolution.com
-acr0.samsungcloudsolution.com
+
 ad.samsungadhub.com
 ads.samsungads.com
-amauthprd.samsungcloudsolution.com
 api-hub.samsungyosemite.com
 az43064.vo.msecnd.net
-cdn.samsungcloudsolution.net
-configprd.samsungcloudsolution.net
 connecttv.pelmorex.com # weather app tracking
 Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
 cpu.samsungelectronics.com
@@ -122,11 +118,8 @@ d3mjsomixevyw7.cloudfront.net
 d37ju0xanoz6gh.cloudfront.net
 dev-multiscreen.samsung.com
 device-metrics-us.amazon.com
-fkp.samsungcloudsolution.com
-fkp.samsungcloudsolution.net
 game.internetat.tv
 gld.samsungosp.com
-gpm.samsungqbe.com
 i-stream.pl
 log-1.samsungacr.com
 log-2.samsungacr.com
@@ -135,27 +128,16 @@ log-ingestion.samsungacr.com
 log-ingestion-eu.samsungacr.com
 log.internetat.tv
 multiscreen.samsung.com
-musicid.samsungcloudsolution.com
-notice.samsungcloudsolution.com
-noticecdn.samsungcloudsolution.com
-noticefile.samsungcloudsolution.com
-prderrordumphsm.samsungcloudsolution.com
 openapi.samsung.com
-osb-krsvc.samsungqbe.com
-osb-eusvc.samsungqbe.com
 pavv.co.kr
 pipeaota.com
 premium-videos.telly.com
-prov.samsungcloudsolution.com
 rd.samsungadhub.com
 rwww.samsungotn.net
 samsungacr.com
 samsungadhub.com
-samsungcloudsolution.com
-samsungcloudsolution.net
 samsungqbe.com
 samsungrm.net
-sas.samsungcloudsolution.com
 sca.samsung.com
 sso.internetat.tv # account login
 syncplusconfig.s3.amazonaws.com
@@ -163,7 +145,6 @@ targeted-config-test.samsungacr.com
 test.samsungrm.net
 us-api.samsungyosemite.com
 vd.emp.prd.s3.amazonaws.com
-vdterms.samsungcloudsolution.com
 www.samsungrm.net
 samsungelectronics.com
 apu.samsungelectronics.com
@@ -184,7 +165,7 @@ d37ju0xanoz6gh.cloudfront.net
 rd.samsungadhub.com
 samsungadhub.com
 samsungads.com
-gamespromotion.samsungcloudsolution.com
+
 
 
 # Roku
