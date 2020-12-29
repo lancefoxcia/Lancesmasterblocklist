@@ -244,7 +244,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adgoto.com
 0.0.0.0 adgridwork.com
 0.0.0.0 adgroups.net
-0.0.0.0 adgrx.com
 0.0.0.0 adhaven.com
 0.0.0.0 adhese.be
 0.0.0.0 adhese.com
