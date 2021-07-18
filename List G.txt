@@ -1142,7 +1142,6 @@
 127.0.0.1 osupdateservice.yunos.com
 127.0.0.1 tvupgrade.yunos.com
 127.0.0.1 uuidapi.yunos.com
-127.0.0.1 app-measurement.com
 127.0.0.1 cs02-pps-drcn.dbankcdn.com
 127.0.0.1 ads.gionee.com
 127.0.0.1 adres.myaora.net
@@ -8232,7 +8231,6 @@
 127.0.0.1 aax-fe-pek.amazon-adsystem.com
 127.0.0.1 aax-fe-sin.amazon-adsystem.com
 127.0.0.1 aax-fe.amazon-adsystem.com
-127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 mads.amazon-adsystem.com

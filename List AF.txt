@@ -21,7 +21,6 @@ settings.crashlytics.com
 
 # Uncatagorized
 ads.twitter.com
-app-measurement.com
 events.appsflyer.com
 stats.appsflyer.com
 t.appsflyer.com

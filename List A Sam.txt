@@ -4740,7 +4740,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 aax-fe.amazon-adsystem.com
 0.0.0.0 aax-fe-sin.amazon-adsystem.com
 0.0.0.0 aax-us.amazon-adsystem.com
-0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 cdn-a.amazon-adsystem.com
 0.0.0.0 fls-eu.amazon-adsystem.com
@@ -4778,7 +4777,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fls-eu.amazon.com
 0.0.0.0 fls-fe.amazon.com
 0.0.0.0 fls-na.amazon.com
-0.0.0.0 mads.amazon.com
 
 # [amazon.com.au]
 0.0.0.0 fls-fe.amazon.com.au
@@ -5024,9 +5022,6 @@ ff02::3 ip6-allhosts
 # [app-adforce.jp]
 0.0.0.0 app-adforce.jp
 0.0.0.0 analytics.app-adforce.jp
-
-# [app-measurement.com]
-0.0.0.0 app-measurement.com
 
 # [app.link]
 0.0.0.0 app.link

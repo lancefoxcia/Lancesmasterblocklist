@@ -1951,7 +1951,6 @@
 # [Amazon.com][AS16509][207.171.160.0 - 207.171.191.255]
 0.0.0.0 s.206solutions.com
 0.0.0.0 aax.amazon-adsystem.com
-0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 admarvel.s3.amazonaws.com
 0.0.0.0 htmlads.s3.amazonaws.com
 0.0.0.0 mondoads.s3.amazonaws.com

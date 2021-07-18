@@ -312,8 +312,6 @@
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 mads-eu.amazon.com
-0.0.0.0 mads.amazon.com
-0.0.0.0 mas-sdk.amazon.com
 0.0.0.0 rcm-images.amazon.com
 0.0.0.0 rcm.amazon.com
 0.0.0.0 uedata.amazon.com
@@ -338,7 +336,6 @@
 0.0.0.0 aax-fe-sin-rtb-adx.amazon-adsystem.com
 0.0.0.0 aax-opf-us-east.amazon-adsystem.com
 0.0.0.0 aax-us.amazon-adsystem.com
-0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 aax-us-east-rtb.amazon-adsystem.com
 0.0.0.0 aax-us-east-rtb-adx.amazon-adsystem.com
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
