@@ -4449,8 +4449,6 @@ ff02::3		ip6-allhosts
 #</maybe-ads>
 
 # ads
-#0.0.0.0 aax-eu.amazon-adsystem.com 	# may interfere with Amazon ad preferences
-#0.0.0.0 s.amazon-adsystem.com	# may interfere with Amazon ad preferences
 0.0.0.0 0101011.com
 0.0.0.0 0427d7.se
 0.0.0.0 0d79ed.r.axf8.net
@@ -9494,7 +9492,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 macskajaj.net
 0.0.0.0 mad2.brandreachsys.com
 0.0.0.0 madadsmedia.com
-0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 mads.aol.com
 0.0.0.0 mads.cnet.com
 0.0.0.0 mads.dailymail.co.uk
@@ -10428,7 +10425,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 proximityads.flipcorp.com
 0.0.0.0 proxy.blogads.com
 0.0.0.0 prpops.com
-0.0.0.0 ps-us.amazon-adsystem.com
 0.0.0.0 ps.eyeota.net
 0.0.0.0 ps.popcash.net
 0.0.0.0 ps4ux.com

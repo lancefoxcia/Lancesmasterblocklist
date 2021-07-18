@@ -2195,7 +2195,6 @@
 0.0.0.0 cdn.adikteev.com
 0.0.0.0 cdn.adsafeprotected.com
 0.0.0.0 iau.adsiduous.com
-0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 fls-eu.amazon-adsystem.com
 0.0.0.0 track.adthrive.com
 0.0.0.0 d1v9u0bgi1uimx.cloudfront.net
@@ -2350,8 +2349,6 @@
 0.0.0.0 tag.adtrendmedia.net
 0.0.0.0 data.alexa.com
 0.0.0.0 advice-ads.s3.amazonaws.com
-0.0.0.0 ps-eu.amazon-adsystem.com
-0.0.0.0 ps-us.amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 cdn.installationsafe.net.s3.amazonaws.com
 0.0.0.0 slate-ad-scripts.s3.amazonaws.com

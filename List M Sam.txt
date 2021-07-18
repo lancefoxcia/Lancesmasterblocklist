@@ -1869,25 +1869,6 @@
 # [am15.net]
 127.0.0.1 am15.net
 
-# [amazon-adsystem.com]
-127.0.0.1 aan.amazon-adsystem.com
-127.0.0.1 aax.amazon-adsystem.com
-127.0.0.1 aax-eu-retail-direct.amazon-adsystem.com
-127.0.0.1 aax-fe.amazon-adsystem.com
-127.0.0.1 aax-fe-sin.amazon-adsystem.com
-127.0.0.1 aax-us.amazon-adsystem.com
-127.0.0.1 aax-us-east.amazon-adsystem.com
-127.0.0.1 c.amazon-adsystem.com
-127.0.0.1 cdn-a.amazon-adsystem.com
-127.0.0.1 fls-eu.amazon-adsystem.com
-127.0.0.1 fls-fe.amazon-adsystem.com
-127.0.0.1 fls-na.amazon-adsystem.com
-127.0.0.1 mads.amazon-adsystem.com
-127.0.0.1 s.amazon-adsystem.com
-127.0.0.1 vaes.amazon-adsystem.com
-127.0.0.1 ws-eu.amazon-adsystem.com
-127.0.0.1 z-eu.amazon-adsystem.com
-
 # [amazon.ae]
 127.0.0.1 fls-eu.amazon.ae
 

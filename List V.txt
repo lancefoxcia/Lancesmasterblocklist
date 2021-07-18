@@ -1004,7 +1004,6 @@
 127.0.0.1 adsx.greystripe.com
 127.0.0.1 c.greystripe.com
 127.0.0.1 aax-us-west.amazon-adsystem.com
-127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 admarvel.s3.amazonaws.com
 127.0.0.1 html5adkit.plusmo.s3.amazonaws.com
 127.0.0.1 inneractive-assets.s3.amazonaws.com

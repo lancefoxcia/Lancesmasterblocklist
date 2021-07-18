@@ -334,8 +334,6 @@
 0.0.0.0 aax-fe-sin.amazon-adsystem.com
 0.0.0.0 aax-fe-sin-rtb.amazon-adsystem.com
 0.0.0.0 aax-fe-sin-rtb-adx.amazon-adsystem.com
-0.0.0.0 aax-opf-us-east.amazon-adsystem.com
-0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax-us-east-rtb.amazon-adsystem.com
 0.0.0.0 aax-us-east-rtb-adx.amazon-adsystem.com
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
@@ -398,7 +396,6 @@
 0.0.0.0 rcm-eu.amazon-adsystem.com
 0.0.0.0 rcm-fe.amazon-adsystem.com
 0.0.0.0 rcm-na.amazon-adsystem.com
-0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 v.amazon-adsystem.com
 0.0.0.0 vaes.amazon-adsystem.com
 0.0.0.0 vaes.dub.amazon-adsystem.com
@@ -3326,7 +3323,6 @@
 0.0.0.0 fan.twitch.tv
 0.0.0.0 mp.twitch.tv
 0.0.0.0 pubster.twitch.tv
-0.0.0.0 spade.twitch.tv
 0.0.0.0 trowel.twitch.tv
 #[deployads.com]
 0.0.0.0 assets.deployads.com

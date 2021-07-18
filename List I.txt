@@ -1317,7 +1317,6 @@ ma.baidu.com
 m-adash.m.taobao.com
 mad.m.maxthon.cn
 m.adpro.cn
-mads.amazon-adsystem.com
 m.adxpop.com
 m.ad.zhangyue.com
 magnetic.t.domdex.com
@@ -1779,7 +1778,6 @@ sa1.tuisong.baidu.com
 sa3.tuisong.baidu.com
 s.ads.sohu.com
 s.alitui.weibo.com
-s.amazon-adsystem.com
 s.appjiagu.com
 sa.tuisong.baidu.com
 sax1.sina.com.cn

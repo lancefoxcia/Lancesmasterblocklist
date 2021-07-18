@@ -4733,24 +4733,6 @@ ff02::3 ip6-allhosts
 # [am15.net]
 0.0.0.0 am15.net
 
-# [amazon-adsystem.com]
-0.0.0.0 aan.amazon-adsystem.com
-0.0.0.0 aax.amazon-adsystem.com
-0.0.0.0 aax-eu-retail-direct.amazon-adsystem.com
-0.0.0.0 aax-fe.amazon-adsystem.com
-0.0.0.0 aax-fe-sin.amazon-adsystem.com
-0.0.0.0 aax-us.amazon-adsystem.com
-0.0.0.0 c.amazon-adsystem.com
-0.0.0.0 cdn-a.amazon-adsystem.com
-0.0.0.0 fls-eu.amazon-adsystem.com
-0.0.0.0 fls-fe.amazon-adsystem.com
-0.0.0.0 fls-na.amazon-adsystem.com
-0.0.0.0 mads.amazon-adsystem.com
-0.0.0.0 s.amazon-adsystem.com
-0.0.0.0 vaes.amazon-adsystem.com
-0.0.0.0 ws-eu.amazon-adsystem.com
-0.0.0.0 z-eu.amazon-adsystem.com
-
 # [amazon.ae]
 0.0.0.0 fls-eu.amazon.ae
 
@@ -50179,7 +50161,6 @@ ff02::3 ip6-allhosts
 
 # ads
 #0.0.0.0 aax-eu.amazon-adsystem.com 	# may interfere with Amazon ad preferences
-#0.0.0.0 s.amazon-adsystem.com	# may interfere with Amazon ad preferences
 0.0.0.0 0101011.com
 0.0.0.0 0427d7.se
 0.0.0.0 0d79ed.r.axf8.net

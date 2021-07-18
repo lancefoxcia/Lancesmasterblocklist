@@ -8233,8 +8233,6 @@
 127.0.0.1 aax-fe.amazon-adsystem.com
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 c.amazon-adsystem.com
-127.0.0.1 mads.amazon-adsystem.com
-127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 a.applovin.com
 127.0.0.1 assets.applovin.com
 127.0.0.1 d.applovin.com
